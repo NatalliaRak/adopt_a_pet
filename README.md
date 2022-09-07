@@ -1,7 +1,7 @@
 Adopta-a-pet
 =======================
 
-# The Adopt a pet React app project is a Codecademy student project. 
+# dopt a pet React app project is a Codecademy student project. 
 6 of September
 
 ## OBJECTIVE 
